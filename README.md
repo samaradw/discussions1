@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Review pull requests
+# Creating & Organizing Discussions 
 
 _Collaborate and work together on GitHub._
 
@@ -21,25 +21,33 @@ _Collaborate and work together on GitHub._
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Open a pull request
+# Step 1: Create a Discussion 💬
 
-_Welcome to "Review pull requests"! :wave:_
+## 📌 Objective
+Learn how to start a new conversation using GitHub Discussions to promote collaboration and community input.
 
-Let's get started by opening a pull request.
+## 🧠 Why It Matters
+Discussions help your team or community:
+- Brainstorm new ideas
+- Ask questions without creating issues
+- Keep conversations transparent and organized
 
-**What is a pull request?**: Collaboration happens on a pull request. The pull request shows the changes in your branch to other people. This pull request is going to keep the changes you just made on your branch and propose applying them to the `main` branch.
+## 🚀 Your Task
+Create a new discussion in this repository!
 
-### :keyboard: Activity: Create a pull request
+1. Go to the **"Discussions"** tab at the top.
+2. Click **"New Discussion."**
+3. Choose either the **"Q&A"** or **"Ideas"** category.
+4. Write a short title and post like:
+> _"What features should we add to make this project more beginner-friendly?"_
 
-1. Click on the **Pull requests** tab in your repository.
-2. Click **New pull request**.
-3. In the **base:** dropdown, make sure **main** is selected.
-4. Select the **compare:** dropdown, and click `update-game`.
-5. Click **Create pull request**.
-6. Enter a title for your pull request: `Update the game over message`.
-7. Enter a description for your pull request: `Update the game over message so people know how to play again!`
-8. Click **Create pull request**.
-9. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+Once you've posted the discussion, the next step will unlock!
+
+---
+
+✅ Once complete, this skill will automatically move you to **Step 2**.
+<!--STEP 1-->
+
 
 <footer>
 

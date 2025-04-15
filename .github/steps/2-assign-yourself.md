@@ -5,19 +5,25 @@
   Historic note: this step combines the commend, approve, and needs changes steps from the previous version.
 -->
 
-## Step 2: Assign yourself
+# Step 2: Reply and Upvote 💬👍
 
-_Great job opening that pull request! :wave:_
+## 📌 Objective  
+Practice engaging with other users by replying to discussions and upvoting helpful comments.
 
-**What is a _pull request review_?**: Reviewing a pull request is an opportunity to examine another contributor's changes and give them feedback. It's an awesome opportunity to learn more about how the project works and how others solve problems.
+## 🧠 Why It Matters  
+Strong communities aren’t just about asking questions—they’re about helping others and showing appreciation. Replying and reacting helps:
+- Encourage thoughtful contributions
+- Boost visibility of helpful answers
+- Create a more positive, interactive community
 
-The best way to get a review is to ask for one. On GitHub, you can ask someone to review a pull request by assigning them as a reviewer or assignee. If you are not ready for review, consider [creating a draft pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) instead.
+## 🚀 Your Task  
+1. Find an existing discussion (or use your own).
+2. Add a reply to it—share your thoughts or answer a question.
+3. Add a 👍 (thumbs up) reaction to **any** comment in that discussion.
 
-### :keyboard: Activity: Assign yourself
+Once you've done both, the next step will unlock automatically!
 
-1. Open the pull request you just created.
-1. Under **Assignees** on the right side of the screen, add yourself.
+---
 
-   Because you created the pull request, you can't assign yourself as a reviewer, but feel free to assign a friend as a reviewer instead to see how it works :smile:
-
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+✅ When both actions are detected, you'll move on to **Step 3**.
+<!--STEP 2-->

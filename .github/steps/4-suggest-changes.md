@@ -4,22 +4,35 @@
   Define terms and link to docs.github.com.
 -->
 
-## Step 4: Suggest changes
+# Step 4: Organize with Categories 🗂️
 
-_Nice work reviewing that pull request :sparkles:_
+## 📌 Objective  
+Understand how to organize your discussions with categories so others can easily find, navigate, and contribute to relevant conversations.
 
-Now that you have explored the different ways you can review a pull request it is time to learn how to use _suggest changes_.
+## 🧠 Why It Matters  
+Well-organized discussions help your team:
+- Navigate ideas faster
+- Separate feedback from feature requests
+- Keep the conversation flowing in the right places
 
-**What is _suggest changes_?**: This feature enables you to recommend a change to a pull request that the author can commit with the push of a button.
+## 🚀 Your Task  
 
-### :keyboard: Activity: Suggest changes
+You have two options to complete this step:
 
-1. On the pull request, click **Files changed**.
-1. Find the `index.html` changes.
-1. Hover your cursor next to the line numbers on the left side of the page.
-1. Click the blue plus icon.
-1. After the comment form appears, click the **Add a suggestion** button. <br>
-   ![add-a-suggestion-button](https://user-images.githubusercontent.com/97056108/184449714-61e8ee51-824a-48c1-9436-2dfd67f2c070.png)
-1. Edit the suggestion.
-1. Click **Add a single comment**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+**Option A (if you have admin/moderator access):**
+1. Go to the **"Discussions"** tab.
+2. Open **Settings > Manage Categories**.
+3. Add a new category (e.g. “Announcements,” “UX Feedback”).
+
+**Option B (for all users):**
+1. Go to any discussion.
+2. Click **Edit discussion**.
+3. Change its category (e.g. move it from “Q&A” to “Ideas”).
+
+Either action will trigger the final step and complete your GitHub Skill journey!
+
+---
+
+✅ After organizing or re-categorizing a discussion, you’ll unlock the final module!
+<!--STEP 4-->
+

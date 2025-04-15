@@ -4,15 +4,37 @@
   Define terms and link to docs.github.com.
 -->
 
-## Step 5: Apply suggested changes
+# 🎉 Skill Complete: Creating & Organizing GitHub Discussions
 
-_Nicely done suggesting changes! :partying_face:_
+You did it! You’ve completed this GitHub Skill and are now ready to use Discussions to engage your community and keep communication clear and collaborative.
 
-Now let's see how easy it is to [apply your suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request).
+---
 
-### :keyboard: Activity: Apply suggested changes
+## ✅ What You Learned
+- **Created** a discussion to spark collaboration  
+- **Replied** and **upvoted** to build engagement  
+- **Marked answers** to surface solutions  
+- **Organized** conversations with categories  
 
-1. Click **Commit suggestion**.
-1. Type a commit message.
-1. Click **Commit changes**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+---
+
+## 💡 Real-World Use Case  
+Maintainers of large open-source projects like [Microsoft’s VS Code](https://github.com/microsoft/vscode/discussions) use Discussions to:
+- Triage community ideas
+- Support users outside of issues
+- Build a knowledge base over time
+
+You can now do the same — for your open-source project, team repo, or even classroom!
+
+---
+
+## 🚀 Next Steps
+Try enabling Discussions on your favorite project or use it to:
+- Run feedback sessions
+- Host “ask me anything” threads
+- Let contributors propose new features
+
+You’ve got the tools — now lead the conversation.  
+Thanks for learning with GitHub Skills! 💙
+
+<!--FINISHED-->
